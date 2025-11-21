@@ -25,3 +25,29 @@ Jackeline Suzett Martinez Helmcke Herrera (21580834)
 José Armando Martínez Martínez 21580048
 Lisset Isidro Sanchez
 
+
+# 🚀 Bienvenido a mi repositorio **HelloGitOLIVER**
+
+Este repositorio fue creado para realizar prácticas de la materia  
+**Lenguajes de Programación y Herramientas Inteligentes** del  
+**Instituto Tecnológico de Reynosa**.
+
+---
+
+## 📌 Objetivo del repositorio
+Aprender a usar **Git y GitHub** de manera práctica mediante diversas actividades relacionadas con el control de versiones y trabajo colaborativo.
+
+---
+
+## 📚 Prácticas realizadas
+
+| Número | Práctica | Estado |
+|--------|----------|--------|
+| 1 | Introducción a Git | ✔️ Completada |
+| 2 | Comandos básicos | ✔️ Completada |
+| 7 | Ramas (branch) | ✔️ Completada |
+| 12 | Sincronizar repositorios | ✔️ Completada |
+| 13 | Markdown | ✔️ Completada |
+
+---
+
